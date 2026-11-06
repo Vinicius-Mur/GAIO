@@ -1,0 +1,20 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: gaio-postgres
+    environment:
+      POSTGRES_DB: ${DB_NAME:-gaio_calculadora}
+      POSTGRES_USER: ${DB_USER:-gaio}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-gaio}
+    ports:
+      - "${DB_PORT:-5432}:5432"
+    volumes:
+      - gaio_postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-gaio} -d ${DB_NAME:-gaio_calculadora}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  gaio_postgres_data:

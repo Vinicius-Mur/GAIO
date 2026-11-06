@@ -1,0 +1,20 @@
+.env
+*.log
+run.log
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+
+# Assets e documentos que não são código do projeto
+/pi4 figma/
+*.csv
+*.pdf
+DOCUMENTACAO_TECNICA.md
+GUIA_API.md
+
+# Bytecode Python (scripts auxiliares)
+__pycache__/
+*.pyc

@@ -1,0 +1,2178 @@
+{
+ "totalAnuncios": 20498,
+ "minimoAnunciosRanking": 30,
+ "zonas": [
+  {
+   "zona": "OESTE",
+   "anuncios": 4073,
+   "precoM2Mediano": 11428.57142857143,
+   "precoM2PorCategoria": {
+    "Apartamentos": 12232.25,
+    "Casas": 5791.403508771929
+   }
+  },
+  {
+   "zona": "SUL",
+   "anuncios": 3506,
+   "precoM2Mediano": 11062.179487179488,
+   "precoM2PorCategoria": {
+    "Apartamentos": 12013.43067876009,
+    "Casas": 6736.930246104558
+   }
+  },
+  {
+   "zona": "CENTRO",
+   "anuncios": 3940,
+   "precoM2Mediano": 10039.846945507323,
+   "precoM2PorCategoria": {
+    "Apartamentos": 10317.222222222223,
+    "Casas": 6666.666666666667
+   }
+  },
+  {
+   "zona": "LESTE",
+   "anuncios": 4427,
+   "precoM2Mediano": 6910.569105691057,
+   "precoM2PorCategoria": {
+    "Apartamentos": 8400.0,
+    "Casas": 5080.0370370370365
+   }
+  },
+  {
+   "zona": "NORTE",
+   "anuncios": 4552,
+   "precoM2Mediano": 6487.518052403549,
+   "precoM2PorCategoria": {
+    "Apartamentos": 7532.837573385519,
+    "Casas": 5096.993512974052
+   }
+  }
+ ],
+ "bairros": [
+  {
+   "bairro": "Vila Nova Conceição",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 21186.623516720603,
+   "precoM2P25": 16638.633720930233,
+   "precoM2P75": 27421.14888123924,
+   "anuncios": 116
+  },
+  {
+   "bairro": "Vila Olímpia",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 19032.894736842107,
+   "precoM2P25": 13529.87012987013,
+   "precoM2P75": 25746.08208955224,
+   "anuncios": 139
+  },
+  {
+   "bairro": "Cerqueira César",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 17256.63716814159,
+   "precoM2P25": 13579.825884440503,
+   "precoM2P75": 21069.438502673795,
+   "anuncios": 87
+  },
+  {
+   "bairro": "Pinheiros",
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 17098.46113989637,
+   "precoM2P25": 12191.526313663719,
+   "precoM2P75": 21230.35266686097,
+   "anuncios": 619
+  },
+  {
+   "bairro": "Itaim Bibi",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 17033.671585696124,
+   "precoM2P25": 13845.226094470047,
+   "precoM2P75": 25917.44258224705,
+   "anuncios": 106
+  },
+  {
+   "bairro": "Sumarezinho",
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 15864.91617063492,
+   "precoM2P25": 12889.84461709212,
+   "precoM2P75": 19613.97873283119,
+   "anuncios": 136
+  },
+  {
+   "bairro": "Jardim das Acácias",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 15454.242424242424,
+   "precoM2P25": 9590.285714285714,
+   "precoM2P75": 17371.79487179487,
+   "anuncios": 49
+  },
+  {
+   "bairro": "Moema",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 15333.333333333334,
+   "precoM2P25": 12231.581594166459,
+   "precoM2P75": 23159.395973154362,
+   "anuncios": 67
+  },
+  {
+   "bairro": "Cidade Monções",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 15217.391304347826,
+   "precoM2P25": 12791.290322580644,
+   "precoM2P75": 18388.250574052814,
+   "anuncios": 63
+  },
+  {
+   "bairro": "Vila Madalena",
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 14676.692193675888,
+   "precoM2P25": 10620.791245791246,
+   "precoM2P75": 18031.1404906021,
+   "anuncios": 76
+  },
+  {
+   "bairro": "Água Branca",
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 14359.768907563026,
+   "precoM2P25": 12390.392648287385,
+   "precoM2P75": 16242.03821656051,
+   "anuncios": 162
+  },
+  {
+   "bairro": "Sumaré",
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 14347.826086956522,
+   "precoM2P25": 10351.196060037524,
+   "precoM2P75": 17836.022167487685,
+   "anuncios": 155
+  },
+  {
+   "bairro": "Indianópolis",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 14230.576923076922,
+   "precoM2P25": 11388.888888888889,
+   "precoM2P75": 18224.82638888889,
+   "anuncios": 178
+  },
+  {
+   "bairro": "Vila Romana",
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 13826.08695652174,
+   "precoM2P25": 11334.073062478663,
+   "precoM2P75": 16041.666666666666,
+   "anuncios": 115
+  },
+  {
+   "bairro": "Brooklin Paulista",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 13485.614285714284,
+   "precoM2P25": 10948.484848484848,
+   "precoM2P75": 18415.119363395224,
+   "anuncios": 126
+  },
+  {
+   "bairro": "Paraíso",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 13384.615384615385,
+   "precoM2P25": 10242.141734279918,
+   "precoM2P75": 17440.220723482526,
+   "anuncios": 87
+  },
+  {
+   "bairro": "Vila Uberabinha",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 13163.353333333333,
+   "precoM2P25": 12000.0,
+   "precoM2P75": 19589.55223880597,
+   "anuncios": 35
+  },
+  {
+   "bairro": "Jardim Paulista",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 13126.720114873759,
+   "precoM2P25": 10781.25,
+   "precoM2P75": 17126.436781609194,
+   "anuncios": 226
+  },
+  {
+   "bairro": "Vila Pompéia",
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 13043.478260869566,
+   "precoM2P25": 10339.872746553552,
+   "precoM2P75": 14881.060606060606,
+   "anuncios": 75
+  },
+  {
+   "bairro": "Vila Mariana",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 13003.042371943799,
+   "precoM2P25": 10168.24751580849,
+   "precoM2P75": 16988.8966359977,
+   "anuncios": 130
+  },
+  {
+   "bairro": "Parque Colonial",
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 12914.502164502164,
+   "precoM2P25": 10702.479338842975,
+   "precoM2P75": 14129.032258064517,
+   "anuncios": 56
+  },
+  {
+   "bairro": "Alto de Pinheiros",
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 12911.666666666668,
+   "precoM2P25": 10371.55,
+   "precoM2P75": 17546.08980077312,
+   "anuncios": 32
+  },
+  {
+   "bairro": "Campo Belo",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 12865.168539325843,
+   "precoM2P25": 10062.893081761007,
+   "precoM2P75": 16319.148936170213,
+   "anuncios": 237
+  },
+  {
+   "bairro": "Butantã",
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 12777.830918259024,
+   "precoM2P25": 11819.830176767677,
+   "precoM2P75": 14390.22435897436,
+   "anuncios": 62
+  },
+  {
+   "bairro": "Parque São Jorge",
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 12598.425196850394,
+   "precoM2P25": 10294.117647058823,
+   "precoM2P75": 14090.90909090909,
+   "anuncios": 49
+  },
+  {
+   "bairro": "Parque Industrial Tomas Edson",
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "precoM2": 12500.0,
+   "precoM2P25": 11349.693251533743,
+   "precoM2P75": 14062.5,
+   "anuncios": 73
+  },
+  {
+   "bairro": "Vila Leopoldina",
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 12376.659336074856,
+   "precoM2P25": 10589.86013986014,
+   "precoM2P75": 13949.718045112782,
+   "anuncios": 108
+  },
+  {
+   "bairro": "Vila Anastácio",
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 12229.299363057326,
+   "precoM2P25": 9887.181818181818,
+   "precoM2P75": 13262.117834394903,
+   "anuncios": 91
+  },
+  {
+   "bairro": "Consolação",
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "precoM2": 12216.198979591838,
+   "precoM2P25": 9694.047619047618,
+   "precoM2P75": 16000.0,
+   "anuncios": 436
+  },
+  {
+   "bairro": "Vila Ipojuca",
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 12140.252454417952,
+   "precoM2P25": 9811.188811188811,
+   "precoM2P75": 14421.195652173912,
+   "anuncios": 92
+  },
+  {
+   "bairro": "Alto da Lapa",
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 12005.65812983919,
+   "precoM2P25": 8895.650048875854,
+   "precoM2P75": 14970.61829330608,
+   "anuncios": 118
+  },
+  {
+   "bairro": "Várzea da Barra Funda",
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "precoM2": 11969.69696969697,
+   "precoM2P25": 10953.030303030304,
+   "precoM2P75": 13617.424242424244,
+   "anuncios": 107
+  },
+  {
+   "bairro": "Santo Amaro",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 11913.04347826087,
+   "precoM2P25": 9551.28205128205,
+   "precoM2P75": 13474.57627118644,
+   "anuncios": 57
+  },
+  {
+   "bairro": "Barra Funda",
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "precoM2": 11837.608108108108,
+   "precoM2P25": 9183.673469387755,
+   "precoM2P75": 13387.27963525836,
+   "anuncios": 375
+  },
+  {
+   "bairro": "Vila Zilda",
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "precoM2": 11792.561416519886,
+   "precoM2P25": 10340.909090909092,
+   "precoM2P75": 12534.09090909091,
+   "anuncios": 30
+  },
+  {
+   "bairro": "Jardim Anália Franco",
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 11618.985950867278,
+   "precoM2P25": 9020.242914979757,
+   "precoM2P75": 14550.135501355015,
+   "anuncios": 58
+  },
+  {
+   "bairro": "Higienópolis",
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 11570.247933884297,
+   "precoM2P25": 9928.57142857143,
+   "precoM2P75": 13633.580729166666,
+   "anuncios": 210
+  },
+  {
+   "bairro": "Santa Teresinha",
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "precoM2": 11325.250836120402,
+   "precoM2P25": 7539.473684210527,
+   "precoM2P75": 12773.655015197568,
+   "anuncios": 120
+  },
+  {
+   "bairro": "Perdizes",
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 11279.06976744186,
+   "precoM2P25": 9595.959595959595,
+   "precoM2P75": 14715.90909090909,
+   "anuncios": 617
+  },
+  {
+   "bairro": "Quarta Parada",
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 11200.0,
+   "precoM2P25": 9825.581395348838,
+   "precoM2P75": 15256.410256410256,
+   "anuncios": 41
+  },
+  {
+   "bairro": "Bela Aliança",
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 11155.555555555555,
+   "precoM2P25": 10153.605831814632,
+   "precoM2P75": 14003.396739130436,
+   "anuncios": 38
+  },
+  {
+   "bairro": "Vila Clementino",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 11074.971139971141,
+   "precoM2P25": 9222.120588235293,
+   "precoM2P75": 14926.618984253715,
+   "anuncios": 58
+  },
+  {
+   "bairro": "Chácara Califórnia",
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 10937.5,
+   "precoM2P25": 7785.9477124183,
+   "precoM2P75": 12651.498085154315,
+   "anuncios": 63
+  },
+  {
+   "bairro": "Saúde",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 10775.240384615385,
+   "precoM2P25": 9223.076923076922,
+   "precoM2P75": 12967.849223946785,
+   "anuncios": 48
+  },
+  {
+   "bairro": "Alto da Mooca",
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 10643.547273982056,
+   "precoM2P25": 8639.464285714286,
+   "precoM2P75": 12289.156626506025,
+   "anuncios": 72
+  },
+  {
+   "bairro": "Vila Bertioga",
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 10641.02564102564,
+   "precoM2P25": 9000.0,
+   "precoM2P75": 12755.102040816326,
+   "anuncios": 77
+  },
+  {
+   "bairro": "Vila Gomes Cardim",
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 10625.333333333332,
+   "precoM2P25": 9069.767441860466,
+   "precoM2P75": 13285.211267605635,
+   "anuncios": 138
+  },
+  {
+   "bairro": "Lapa",
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 10621.428571428572,
+   "precoM2P25": 9090.746753246753,
+   "precoM2P75": 11987.846385542169,
+   "anuncios": 52
+  },
+  {
+   "bairro": "Santa Cecília",
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "precoM2": 10571.339285714286,
+   "precoM2P25": 8640.908573704273,
+   "precoM2P75": 12684.433164128595,
+   "anuncios": 726
+  },
+  {
+   "bairro": "Bela Vista",
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "precoM2": 10317.460317460318,
+   "precoM2P25": 8088.088235294118,
+   "precoM2P75": 13404.111111111111,
+   "anuncios": 745
+  },
+  {
+   "bairro": "Vila Regente Feijó",
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 10257.45197550541,
+   "precoM2P25": 8636.710239651416,
+   "precoM2P75": 12955.445544554455,
+   "anuncios": 178
+  },
+  {
+   "bairro": "Aclimação",
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "precoM2": 10182.920042050584,
+   "precoM2P25": 8409.302325581395,
+   "precoM2P75": 13786.878881987577,
+   "anuncios": 398
+  },
+  {
+   "bairro": "Belenzinho",
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "precoM2": 10094.0,
+   "precoM2P25": 8281.25,
+   "precoM2P75": 11851.851851851852,
+   "anuncios": 165
+  },
+  {
+   "bairro": "Chácara Santo Antônio",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 10027.708333333334,
+   "precoM2P25": 8813.466101694914,
+   "precoM2P75": 13616.729607250756,
+   "anuncios": 30
+  },
+  {
+   "bairro": "Ipiranga",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 10000.0,
+   "precoM2P25": 6922.413793103448,
+   "precoM2P75": 11764.70588235294,
+   "anuncios": 50
+  },
+  {
+   "bairro": "Tatuapé",
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 10000.0,
+   "precoM2P25": 7843.530888030888,
+   "precoM2P75": 12098.28157974073,
+   "anuncios": 228
+  },
+  {
+   "bairro": "República",
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "precoM2": 9941.481481481482,
+   "precoM2P25": 6526.551724137931,
+   "precoM2P75": 12750.0,
+   "anuncios": 85
+  },
+  {
+   "bairro": "Planalto Paulista",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 9868.421052631578,
+   "precoM2P25": 9066.666666666666,
+   "precoM2P75": 11681.060606060606,
+   "anuncios": 31
+  },
+  {
+   "bairro": "Parque da Mooca",
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 9821.42857142857,
+   "precoM2P25": 7056.060606060606,
+   "precoM2P75": 13035.909090909092,
+   "anuncios": 75
+  },
+  {
+   "bairro": "Vila Congonhas",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 9736.842105263157,
+   "precoM2P25": 7396.221076458753,
+   "precoM2P75": 11786.585365853658,
+   "anuncios": 38
+  },
+  {
+   "bairro": "Jardim São Paulo",
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "precoM2": 9687.5,
+   "precoM2P25": 7580.645161290323,
+   "precoM2P75": 13000.0,
+   "anuncios": 101
+  },
+  {
+   "bairro": "Vila Buarque",
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "precoM2": 9620.849297573435,
+   "precoM2P25": 8211.373397435898,
+   "precoM2P75": 11715.546875,
+   "anuncios": 152
+  },
+  {
+   "bairro": "Centro",
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "precoM2": 9461.135135135135,
+   "precoM2P25": 6276.246246246246,
+   "precoM2P75": 11000.0,
+   "anuncios": 71
+  },
+  {
+   "bairro": "Vila Prudente",
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 9076.923076923076,
+   "precoM2P25": 8019.444444444444,
+   "precoM2P75": 10800.0,
+   "anuncios": 119
+  },
+  {
+   "bairro": "Vila Dom Pedro II",
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "precoM2": 9056.603773584906,
+   "precoM2P25": 6447.234848484848,
+   "precoM2P75": 11251.488095238095,
+   "anuncios": 71
+  },
+  {
+   "bairro": "Brooklin Paulista",
+   "zona": "SUL",
+   "categoria": "Casas",
+   "precoM2": 8922.727272727272,
+   "precoM2P25": 7464.080459770115,
+   "precoM2P75": 10601.614238410595,
+   "anuncios": 40
+  },
+  {
+   "bairro": "Quinta da Paineira",
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 8781.77966101695,
+   "precoM2P25": 7284.226190476191,
+   "precoM2P75": 9506.839131727625,
+   "anuncios": 44
+  },
+  {
+   "bairro": "Brás",
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 8750.488215488216,
+   "precoM2P25": 6837.24025974026,
+   "precoM2P75": 10508.078947368422,
+   "anuncios": 94
+  },
+  {
+   "bairro": "Lauzane Paulista",
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "precoM2": 8745.192307692309,
+   "precoM2P25": 6401.851851851852,
+   "precoM2P75": 10413.194444444443,
+   "anuncios": 126
+  },
+  {
+   "bairro": "Jardim Brasil",
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "precoM2": 8720.93023255814,
+   "precoM2P25": 7878.88198757764,
+   "precoM2P75": 10393.028024606972,
+   "anuncios": 55
+  },
+  {
+   "bairro": "Morro dos Ingleses",
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "precoM2": 8645.833333333332,
+   "precoM2P25": 7700.2164502164505,
+   "precoM2P75": 9952.742165242165,
+   "anuncios": 64
+  },
+  {
+   "bairro": "Mooca",
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 8636.363636363636,
+   "precoM2P25": 6635.581196581196,
+   "precoM2P75": 10854.761904761905,
+   "anuncios": 287
+  },
+  {
+   "bairro": "Parada Inglesa",
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "precoM2": 8333.333333333334,
+   "precoM2P25": 7121.212121212121,
+   "precoM2P75": 9363.636363636364,
+   "anuncios": 49
+  },
+  {
+   "bairro": "Vila Andrade",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 8333.333333333334,
+   "precoM2P25": 6617.081447963801,
+   "precoM2P75": 9429.349550502378,
+   "anuncios": 104
+  },
+  {
+   "bairro": "Campo Belo",
+   "zona": "SUL",
+   "categoria": "Casas",
+   "precoM2": 8198.198198198199,
+   "precoM2P25": 6199.618320610687,
+   "precoM2P75": 9979.166666666668,
+   "anuncios": 43
+  },
+  {
+   "bairro": "Cambuci",
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "precoM2": 8125.0,
+   "precoM2P25": 6588.744588744588,
+   "precoM2P75": 9714.285714285714,
+   "anuncios": 239
+  },
+  {
+   "bairro": "Vila Constança",
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "precoM2": 8085.106382978724,
+   "precoM2P25": 7253.706479690522,
+   "precoM2P75": 8863.636363636364,
+   "anuncios": 43
+  },
+  {
+   "bairro": "Santana",
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "precoM2": 8018.867924528302,
+   "precoM2P25": 6545.454545454545,
+   "precoM2P75": 10330.188679245282,
+   "anuncios": 489
+  },
+  {
+   "bairro": "Vila Formosa",
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 8000.0,
+   "precoM2P25": 6507.575757575758,
+   "precoM2P75": 10627.029858564692,
+   "anuncios": 87
+  },
+  {
+   "bairro": "Vila Isolina Mazzei",
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "precoM2": 7975.0,
+   "precoM2P25": 6839.291680588039,
+   "precoM2P75": 8875.0,
+   "anuncios": 47
+  },
+  {
+   "bairro": "Aclimação",
+   "zona": "CENTRO",
+   "categoria": "Casas",
+   "precoM2": 7971.014492753623,
+   "precoM2P25": 6250.0,
+   "precoM2P75": 9722.222222222223,
+   "anuncios": 97
+  },
+  {
+   "bairro": "Jardim Avelino",
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 7971.014492753623,
+   "precoM2P25": 5845.823529411765,
+   "precoM2P75": 10357.142857142857,
+   "anuncios": 37
+  },
+  {
+   "bairro": "Água Fria",
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "precoM2": 7870.588235294117,
+   "precoM2P25": 6782.271167048055,
+   "precoM2P75": 8925.70281124498,
+   "anuncios": 64
+  },
+  {
+   "bairro": "Vila Carrão",
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 7832.512315270936,
+   "precoM2P25": 6511.627906976744,
+   "precoM2P75": 11490.683229813665,
+   "anuncios": 85
+  },
+  {
+   "bairro": "Jardim das Vertentes",
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 7826.612903225807,
+   "precoM2P25": 7113.0952380952385,
+   "precoM2P75": 8433.333333333332,
+   "anuncios": 36
+  },
+  {
+   "bairro": "Liberdade",
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "precoM2": 7720.535714285715,
+   "precoM2P25": 6250.0,
+   "precoM2P75": 11603.77358490566,
+   "anuncios": 93
+  },
+  {
+   "bairro": "Vila Guilherme",
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "precoM2": 7687.384259259259,
+   "precoM2P25": 6511.363636363636,
+   "precoM2P75": 9256.302521008403,
+   "anuncios": 74
+  },
+  {
+   "bairro": "Vila Nivi",
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "precoM2": 7523.888888888889,
+   "precoM2P25": 6864.5192307692305,
+   "precoM2P75": 9247.747747747748,
+   "anuncios": 60
+  },
+  {
+   "bairro": "Campos Elíseos",
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "precoM2": 7361.111111111111,
+   "precoM2P25": 5180.8090909090915,
+   "precoM2P75": 9952.142857142857,
+   "anuncios": 111
+  },
+  {
+   "bairro": "Tucuruvi",
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "precoM2": 7349.259259259259,
+   "precoM2P25": 6379.53125,
+   "precoM2P75": 9290.70260364004,
+   "anuncios": 96
+  },
+  {
+   "bairro": "Jardim Paraíso",
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "precoM2": 7165.0623885918,
+   "precoM2P25": 6152.531305903399,
+   "precoM2P75": 10981.899253731342,
+   "anuncios": 38
+  },
+  {
+   "bairro": "Vila Mazzei",
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "precoM2": 7131.190476190476,
+   "precoM2P25": 6388.189655172414,
+   "precoM2P75": 8226.291208791208,
+   "anuncios": 60
+  },
+  {
+   "bairro": "Jardim Franca",
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "precoM2": 7110.644297872341,
+   "precoM2P25": 4496.133064516129,
+   "precoM2P75": 8083.333333333334,
+   "anuncios": 32
+  },
+  {
+   "bairro": "Vila Ema",
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 7000.0,
+   "precoM2P25": 5791.592128801431,
+   "precoM2P75": 8327.551020408162,
+   "anuncios": 39
+  },
+  {
+   "bairro": "Vila Bertioga",
+   "zona": "LESTE",
+   "categoria": "Casas",
+   "precoM2": 6891.816816816817,
+   "precoM2P25": 4647.596153846153,
+   "precoM2P75": 9175.0,
+   "anuncios": 36
+  },
+  {
+   "bairro": "Vila Gustavo",
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "precoM2": 6851.9067103109655,
+   "precoM2P25": 6421.428571428572,
+   "precoM2P75": 7887.734794275492,
+   "anuncios": 40
+  },
+  {
+   "bairro": "Imirim",
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "precoM2": 6819.615384615385,
+   "precoM2P25": 6121.825396825398,
+   "precoM2P75": 8854.314471243042,
+   "anuncios": 35
+  },
+  {
+   "bairro": "Parque Mandaqui",
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "precoM2": 6805.555555555556,
+   "precoM2P25": 5882.880952380952,
+   "precoM2P75": 8014.925373134329,
+   "anuncios": 91
+  },
+  {
+   "bairro": "Bom Retiro",
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "precoM2": 6722.884615384615,
+   "precoM2P25": 4545.454545454545,
+   "precoM2P75": 8762.886597938144,
+   "anuncios": 33
+  },
+  {
+   "bairro": "Água Fria",
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "precoM2": 6654.027777777777,
+   "precoM2P25": 4565.793807641634,
+   "precoM2P75": 8217.857142857143,
+   "anuncios": 40
+  },
+  {
+   "bairro": "Limão",
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "precoM2": 6604.166666666666,
+   "precoM2P25": 5829.545454545454,
+   "precoM2P75": 7377.53125,
+   "anuncios": 36
+  },
+  {
+   "bairro": "Vila Suzana",
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "precoM2": 6594.837758112095,
+   "precoM2P25": 5640.225563909775,
+   "precoM2P75": 8076.7891839378235,
+   "anuncios": 54
+  },
+  {
+   "bairro": "Cambuci",
+   "zona": "CENTRO",
+   "categoria": "Casas",
+   "precoM2": 6444.444444444444,
+   "precoM2P25": 4498.484848484848,
+   "precoM2P75": 7857.055214723927,
+   "anuncios": 83
+  },
+  {
+   "bairro": "Jardim São Paulo",
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "precoM2": 6400.0,
+   "precoM2P25": 5000.0,
+   "precoM2P75": 8000.0,
+   "anuncios": 49
+  },
+  {
+   "bairro": "Vila Carrão",
+   "zona": "LESTE",
+   "categoria": "Casas",
+   "precoM2": 6249.571183533448,
+   "precoM2P25": 5203.422667757774,
+   "precoM2P75": 7769.687162891046,
+   "anuncios": 76
+  },
+  {
+   "bairro": "Vila Nivi",
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "precoM2": 6247.5,
+   "precoM2P25": 4801.136363636364,
+   "precoM2P75": 8170.967741935484,
+   "anuncios": 37
+  },
+  {
+   "bairro": "Santana",
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "precoM2": 6127.083333333334,
+   "precoM2P25": 4817.226890756303,
+   "precoM2P75": 8530.734632683658,
+   "anuncios": 62
+  },
+  {
+   "bairro": "Tatuapé",
+   "zona": "LESTE",
+   "categoria": "Casas",
+   "precoM2": 6106.676767676768,
+   "precoM2P25": 5006.944444444444,
+   "precoM2P75": 7132.142857142857,
+   "anuncios": 38
+  },
+  {
+   "bairro": "Belenzinho",
+   "zona": "CENTRO",
+   "categoria": "Casas",
+   "precoM2": 6010.928961748634,
+   "precoM2P25": 5000.0,
+   "precoM2P75": 7071.428571428572,
+   "anuncios": 99
+  },
+  {
+   "bairro": "Alto da Mooca",
+   "zona": "LESTE",
+   "categoria": "Casas",
+   "precoM2": 5967.164179104478,
+   "precoM2P25": 4842.857142857143,
+   "precoM2P75": 7586.206896551724,
+   "anuncios": 57
+  },
+  {
+   "bairro": "Vila Esperança",
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 5961.625,
+   "precoM2P25": 5424.246361746362,
+   "precoM2P75": 6921.223354958294,
+   "anuncios": 38
+  },
+  {
+   "bairro": "Mooca",
+   "zona": "LESTE",
+   "categoria": "Casas",
+   "precoM2": 5944.055944055944,
+   "precoM2P25": 4983.443708609271,
+   "precoM2P75": 8052.650375939849,
+   "anuncios": 99
+  },
+  {
+   "bairro": "Tucuruvi",
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "precoM2": 5880.090579710145,
+   "precoM2P25": 4613.67478025693,
+   "precoM2P75": 7207.503201109235,
+   "anuncios": 54
+  },
+  {
+   "bairro": "Vila Gomes Cardim",
+   "zona": "LESTE",
+   "categoria": "Casas",
+   "precoM2": 5837.869318181818,
+   "precoM2P25": 4672.08753585639,
+   "precoM2P75": 6707.627118644068,
+   "anuncios": 32
+  },
+  {
+   "bairro": "Vila Formosa",
+   "zona": "LESTE",
+   "categoria": "Casas",
+   "precoM2": 5747.75,
+   "precoM2P25": 4140.898142003982,
+   "precoM2P75": 6906.538461538461,
+   "anuncios": 59
+  },
+  {
+   "bairro": "Parque Mandaqui",
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "precoM2": 5715.909090909091,
+   "precoM2P25": 4568.877551020409,
+   "precoM2P75": 6862.082362082362,
+   "anuncios": 32
+  },
+  {
+   "bairro": "Vila Dom Pedro II",
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "precoM2": 5714.285714285715,
+   "precoM2P25": 4778.260869565217,
+   "precoM2P75": 6845.238095238095,
+   "anuncios": 37
+  },
+  {
+   "bairro": "Vila Mazzei",
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "precoM2": 5687.142857142857,
+   "precoM2P25": 4476.439790575916,
+   "precoM2P75": 6091.954022988506,
+   "anuncios": 61
+  },
+  {
+   "bairro": "Itaquera",
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "precoM2": 5685.405405405405,
+   "precoM2P25": 5152.8,
+   "precoM2P75": 5882.35294117647,
+   "anuncios": 41
+  },
+  {
+   "bairro": "Imirim",
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "precoM2": 5605.110642781876,
+   "precoM2P25": 3898.3333333333335,
+   "precoM2P75": 6870.423076923076,
+   "anuncios": 40
+  },
+  {
+   "bairro": "Vila Constança",
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "precoM2": 5571.428571428572,
+   "precoM2P25": 4827.586206896552,
+   "precoM2P75": 7200.0,
+   "anuncios": 33
+  },
+  {
+   "bairro": "Vila Medeiros",
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "precoM2": 5384.615384615385,
+   "precoM2P25": 4159.2854969794425,
+   "precoM2P75": 6249.21875,
+   "anuncios": 71
+  },
+  {
+   "bairro": "Vila Prudente",
+   "zona": "LESTE",
+   "categoria": "Casas",
+   "precoM2": 5347.112280701755,
+   "precoM2P25": 4041.7290419161677,
+   "precoM2P75": 7382.113821138211,
+   "anuncios": 58
+  },
+  {
+   "bairro": "Vila Isolina Mazzei",
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "precoM2": 5333.333333333333,
+   "precoM2P25": 3961.2403100775196,
+   "precoM2P75": 6382.978723404255,
+   "anuncios": 49
+  },
+  {
+   "bairro": "Vila Gustavo",
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "precoM2": 5250.51282051282,
+   "precoM2P25": 3741.0714285714284,
+   "precoM2P75": 6090.340609661585,
+   "anuncios": 44
+  },
+  {
+   "bairro": "Lauzane Paulista",
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "precoM2": 5231.233333333334,
+   "precoM2P25": 4231.779661016949,
+   "precoM2P75": 6436.5443425076455,
+   "anuncios": 54
+  },
+  {
+   "bairro": "Vila Albertina",
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "precoM2": 5151.515151515152,
+   "precoM2P25": 4100.8403361344535,
+   "precoM2P75": 6241.554054054054,
+   "anuncios": 50
+  },
+  {
+   "bairro": "Vila Maria Alta",
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "precoM2": 5071.428571428572,
+   "precoM2P25": 4573.863636363636,
+   "precoM2P75": 6793.900000000001,
+   "anuncios": 44
+  },
+  {
+   "bairro": "Jardim Bonfiglioli",
+   "zona": "OESTE",
+   "categoria": "Casas",
+   "precoM2": 5068.0,
+   "precoM2P25": 3900.0,
+   "precoM2P75": 5825.0,
+   "anuncios": 57
+  },
+  {
+   "bairro": "Tremembé",
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "precoM2": 5000.0,
+   "precoM2P25": 4260.84136919867,
+   "precoM2P75": 6997.21,
+   "anuncios": 52
+  },
+  {
+   "bairro": "Vila Nova Mazzei",
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "precoM2": 4977.477477477478,
+   "precoM2P25": 3764.8809523809523,
+   "precoM2P75": 5922.222222222223,
+   "anuncios": 42
+  },
+  {
+   "bairro": "Cidade Líder",
+   "zona": "LESTE",
+   "categoria": "Casas",
+   "precoM2": 4526.315789473684,
+   "precoM2P25": 3300.0,
+   "precoM2P75": 5613.097226862679,
+   "anuncios": 59
+  },
+  {
+   "bairro": "Parque Peruche",
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "precoM2": 4233.333333333333,
+   "precoM2P25": 2672.064777327935,
+   "precoM2P75": 5208.695652173913,
+   "anuncios": 33
+  },
+  {
+   "bairro": "Itaquera",
+   "zona": "LESTE",
+   "categoria": "Casas",
+   "precoM2": 3023.809523809524,
+   "precoM2P25": 2383.3333333333335,
+   "precoM2P75": 3898.18763326226,
+   "anuncios": 36
+  }
+ ],
+ "premiosAmenidades": [
+  {
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "amenidade": "academia",
+   "premio": 0.19032047089601045
+  },
+  {
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "amenidade": "elevador",
+   "premio": -0.03144028178033931
+  },
+  {
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "amenidade": "piscina",
+   "premio": 0.2662090007627764
+  },
+  {
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "amenidade": "portaria",
+   "premio": -0.0029092601253504213
+  },
+  {
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "amenidade": "salaoFestas",
+   "premio": 0.14581423642939284
+  },
+  {
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "amenidade": "condominioFechado",
+   "premio": -0.009295187260246363
+  },
+  {
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "amenidade": "seguranca24h",
+   "premio": 0.07799999999999985
+  },
+  {
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "amenidade": "churrasqueira",
+   "premio": 0.16041019454079342
+  },
+  {
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "amenidade": "mobiliado",
+   "premio": 0.15978322146739132
+  },
+  {
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "amenidade": "arCondicionado",
+   "premio": 0.2695188168437077
+  },
+  {
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "amenidade": "varanda",
+   "premio": 0.12342352443395699
+  },
+  {
+   "zona": "CENTRO",
+   "categoria": "Casas",
+   "amenidade": "churrasqueira",
+   "premio": 0.04377064653138274
+  },
+  {
+   "zona": "CENTRO",
+   "categoria": "Casas",
+   "amenidade": "arCondicionado",
+   "premio": 0.09877622377622375
+  },
+  {
+   "zona": "CENTRO",
+   "categoria": "Casas",
+   "amenidade": "varanda",
+   "premio": -0.1536498459167951
+  },
+  {
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "amenidade": "academia",
+   "premio": 0.3246544269147711
+  },
+  {
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "amenidade": "elevador",
+   "premio": 0.11340042114080306
+  },
+  {
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "amenidade": "piscina",
+   "premio": 0.45737223961089124
+  },
+  {
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "amenidade": "portaria",
+   "premio": 0.2409857281083696
+  },
+  {
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "amenidade": "salaoFestas",
+   "premio": 0.2853143408652179
+  },
+  {
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "amenidade": "condominioFechado",
+   "premio": -0.0048847926267282515
+  },
+  {
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "amenidade": "seguranca24h",
+   "premio": 0.055156068524971014
+  },
+  {
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "amenidade": "churrasqueira",
+   "premio": 0.3596743608186752
+  },
+  {
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "amenidade": "mobiliado",
+   "premio": 0.3182043650793651
+  },
+  {
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "amenidade": "arCondicionado",
+   "premio": 0.48205995921731937
+  },
+  {
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "amenidade": "varanda",
+   "premio": 0.3397707231040563
+  },
+  {
+   "zona": "LESTE",
+   "categoria": "Casas",
+   "amenidade": "piscina",
+   "premio": 0.14862351190476186
+  },
+  {
+   "zona": "LESTE",
+   "categoria": "Casas",
+   "amenidade": "condominioFechado",
+   "premio": 0.06759002409963877
+  },
+  {
+   "zona": "LESTE",
+   "categoria": "Casas",
+   "amenidade": "churrasqueira",
+   "premio": 0.09396200814111255
+  },
+  {
+   "zona": "LESTE",
+   "categoria": "Casas",
+   "amenidade": "mobiliado",
+   "premio": 0.007888552772128188
+  },
+  {
+   "zona": "LESTE",
+   "categoria": "Casas",
+   "amenidade": "arCondicionado",
+   "premio": 0.1283059151225514
+  },
+  {
+   "zona": "LESTE",
+   "categoria": "Casas",
+   "amenidade": "varanda",
+   "premio": 0.08624708624708632
+  },
+  {
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "amenidade": "academia",
+   "premio": 0.25938713260423807
+  },
+  {
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "amenidade": "elevador",
+   "premio": 0.1564455569461829
+  },
+  {
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "amenidade": "piscina",
+   "premio": 0.24649741081703103
+  },
+  {
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "amenidade": "portaria",
+   "premio": 0.2920700336688311
+  },
+  {
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "amenidade": "salaoFestas",
+   "premio": 0.1817119565217391
+  },
+  {
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "amenidade": "condominioFechado",
+   "premio": 0.10967741935483888
+  },
+  {
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "amenidade": "seguranca24h",
+   "premio": 0.13690973615726243
+  },
+  {
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "amenidade": "churrasqueira",
+   "premio": 0.13953724511968457
+  },
+  {
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "amenidade": "mobiliado",
+   "premio": 0.17532752460352286
+  },
+  {
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "amenidade": "arCondicionado",
+   "premio": 0.3936099900432988
+  },
+  {
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "amenidade": "varanda",
+   "premio": 0.23320158102766797
+  },
+  {
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "amenidade": "piscina",
+   "premio": 0.1777777777777778
+  },
+  {
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "amenidade": "condominioFechado",
+   "premio": 0.25
+  },
+  {
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "amenidade": "churrasqueira",
+   "premio": 0.09722033898305082
+  },
+  {
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "amenidade": "mobiliado",
+   "premio": 0.06768163168674168
+  },
+  {
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "amenidade": "arCondicionado",
+   "premio": 0.18189542483660137
+  },
+  {
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "amenidade": "varanda",
+   "premio": 0.011499877660876123
+  },
+  {
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "amenidade": "academia",
+   "premio": -0.019819782608695657
+  },
+  {
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "amenidade": "elevador",
+   "premio": -0.1835752800886472
+  },
+  {
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "amenidade": "piscina",
+   "premio": 0.21560509554140128
+  },
+  {
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "amenidade": "portaria",
+   "premio": -0.18408514562360712
+  },
+  {
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "amenidade": "salaoFestas",
+   "premio": 0.06511427339370424
+  },
+  {
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "amenidade": "condominioFechado",
+   "premio": -0.20777704950496734
+  },
+  {
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "amenidade": "seguranca24h",
+   "premio": -0.07916666666666672
+  },
+  {
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "amenidade": "churrasqueira",
+   "premio": 0.1109210868065944
+  },
+  {
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "amenidade": "mobiliado",
+   "premio": 0.07377049180327866
+  },
+  {
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "amenidade": "arCondicionado",
+   "premio": 0.12858680057388794
+  },
+  {
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "amenidade": "varanda",
+   "premio": 0.032511123253454066
+  },
+  {
+   "zona": "OESTE",
+   "categoria": "Casas",
+   "amenidade": "piscina",
+   "premio": 0.2664016298771148
+  },
+  {
+   "zona": "OESTE",
+   "categoria": "Casas",
+   "amenidade": "condominioFechado",
+   "premio": 0.014995313964385915
+  },
+  {
+   "zona": "OESTE",
+   "categoria": "Casas",
+   "amenidade": "churrasqueira",
+   "premio": 0.14383132272219923
+  },
+  {
+   "zona": "OESTE",
+   "categoria": "Casas",
+   "amenidade": "mobiliado",
+   "premio": -0.013644583264836307
+  },
+  {
+   "zona": "OESTE",
+   "categoria": "Casas",
+   "amenidade": "arCondicionado",
+   "premio": 0.07003227375740106
+  },
+  {
+   "zona": "OESTE",
+   "categoria": "Casas",
+   "amenidade": "varanda",
+   "premio": -0.06012524461839519
+  },
+  {
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "amenidade": "academia",
+   "premio": 0.09589245705750549
+  },
+  {
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "amenidade": "elevador",
+   "premio": -0.03161766260185339
+  },
+  {
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "amenidade": "piscina",
+   "premio": 0.08643037974683554
+  },
+  {
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "amenidade": "portaria",
+   "premio": -0.114098690675968
+  },
+  {
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "amenidade": "salaoFestas",
+   "premio": 0.06542046708996518
+  },
+  {
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "amenidade": "condominioFechado",
+   "premio": -0.033122802704599885
+  },
+  {
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "amenidade": "seguranca24h",
+   "premio": -0.01620976593990686
+  },
+  {
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "amenidade": "churrasqueira",
+   "premio": -0.024722998376719985
+  },
+  {
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "amenidade": "mobiliado",
+   "premio": 0.13428938819707636
+  },
+  {
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "amenidade": "arCondicionado",
+   "premio": 0.3603912513284069
+  },
+  {
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "amenidade": "varanda",
+   "premio": 0.0058712121212121104
+  },
+  {
+   "zona": "SUL",
+   "categoria": "Casas",
+   "amenidade": "piscina",
+   "premio": 0.4308931599773884
+  },
+  {
+   "zona": "SUL",
+   "categoria": "Casas",
+   "amenidade": "condominioFechado",
+   "premio": 0.11842105263157898
+  },
+  {
+   "zona": "SUL",
+   "categoria": "Casas",
+   "amenidade": "churrasqueira",
+   "premio": 0.12709973402719554
+  },
+  {
+   "zona": "SUL",
+   "categoria": "Casas",
+   "amenidade": "mobiliado",
+   "premio": 0.08626167500721449
+  },
+  {
+   "zona": "SUL",
+   "categoria": "Casas",
+   "amenidade": "arCondicionado",
+   "premio": 0.5082956259426847
+  },
+  {
+   "zona": "SUL",
+   "categoria": "Casas",
+   "amenidade": "varanda",
+   "premio": -0.1439520376475738
+  },
+  {
+   "zona": null,
+   "categoria": "Apartamentos",
+   "amenidade": "academia",
+   "premio": 0.1108489142857143
+  },
+  {
+   "zona": null,
+   "categoria": "Apartamentos",
+   "amenidade": "elevador",
+   "premio": -0.08719215409344672
+  },
+  {
+   "zona": null,
+   "categoria": "Apartamentos",
+   "amenidade": "piscina",
+   "premio": 0.2628571428571429
+  },
+  {
+   "zona": null,
+   "categoria": "Apartamentos",
+   "amenidade": "portaria",
+   "premio": 0.009333341008872953
+  },
+  {
+   "zona": null,
+   "categoria": "Apartamentos",
+   "amenidade": "salaoFestas",
+   "premio": 0.20505672962722588
+  },
+  {
+   "zona": null,
+   "categoria": "Apartamentos",
+   "amenidade": "condominioFechado",
+   "premio": -0.06207053532600049
+  },
+  {
+   "zona": null,
+   "categoria": "Apartamentos",
+   "amenidade": "seguranca24h",
+   "premio": 0.011704412705050515
+  },
+  {
+   "zona": null,
+   "categoria": "Apartamentos",
+   "amenidade": "churrasqueira",
+   "premio": 0.08164604501417783
+  },
+  {
+   "zona": null,
+   "categoria": "Apartamentos",
+   "amenidade": "mobiliado",
+   "premio": 0.1389507065761657
+  },
+  {
+   "zona": null,
+   "categoria": "Apartamentos",
+   "amenidade": "arCondicionado",
+   "premio": 0.30848517912347684
+  },
+  {
+   "zona": null,
+   "categoria": "Apartamentos",
+   "amenidade": "varanda",
+   "premio": 0.08694800667444813
+  },
+  {
+   "zona": null,
+   "categoria": "Casas",
+   "amenidade": "piscina",
+   "premio": 0.2731073670300628
+  },
+  {
+   "zona": null,
+   "categoria": "Casas",
+   "amenidade": "condominioFechado",
+   "premio": 0.14234546141256454
+  },
+  {
+   "zona": null,
+   "categoria": "Casas",
+   "amenidade": "churrasqueira",
+   "premio": 0.0740331017001945
+  },
+  {
+   "zona": null,
+   "categoria": "Casas",
+   "amenidade": "mobiliado",
+   "premio": 0.060556464811784005
+  },
+  {
+   "zona": null,
+   "categoria": "Casas",
+   "amenidade": "arCondicionado",
+   "premio": 0.15146599204751077
+  },
+  {
+   "zona": null,
+   "categoria": "Casas",
+   "amenidade": "varanda",
+   "premio": -0.016740848169633837
+  }
+ ],
+ "distribuicoes": [
+  {
+   "zona": "CENTRO",
+   "categoria": "Apartamentos",
+   "anuncios": 3637,
+   "tipos": {
+    "Padrão": 3382,
+    "Cobertura": 94,
+    "Loft": 87,
+    "Kitnet": 72,
+    "Duplex ou triplex": 2
+   },
+   "quartos": {
+    "3": 1291,
+    "2": 1046,
+    "1": 823,
+    "4": 428,
+    "5": 47,
+    "0": 2
+   }
+  },
+  {
+   "zona": "CENTRO",
+   "categoria": "Casas",
+   "anuncios": 303,
+   "tipos": {
+    "Padrão": 281,
+    "Casa de condomínio": 12,
+    "Casa de vila": 10
+   },
+   "quartos": {
+    "3": 160,
+    "2": 58,
+    "4": 55,
+    "5": 22,
+    "1": 8
+   }
+  },
+  {
+   "zona": "LESTE",
+   "categoria": "Apartamentos",
+   "anuncios": 2915,
+   "tipos": {
+    "Padrão": 2834,
+    "Cobertura": 54,
+    "Loft": 16,
+    "Kitnet": 6,
+    "Duplex ou triplex": 5
+   },
+   "quartos": {
+    "2": 1391,
+    "3": 1070,
+    "1": 231,
+    "4": 212,
+    "5": 10,
+    "0": 1
+   }
+  },
+  {
+   "zona": "LESTE",
+   "categoria": "Casas",
+   "anuncios": 1512,
+   "tipos": {
+    "Padrão": 1373,
+    "Casa de condomínio": 120,
+    "Casa de vila": 19
+   },
+   "quartos": {
+    "3": 831,
+    "2": 383,
+    "4": 194,
+    "5": 82,
+    "1": 22
+   }
+  },
+  {
+   "zona": "NORTE",
+   "categoria": "Apartamentos",
+   "anuncios": 2598,
+   "tipos": {
+    "Padrão": 2501,
+    "Cobertura": 60,
+    "Kitnet": 17,
+    "Loft": 14,
+    "Duplex ou triplex": 6
+   },
+   "quartos": {
+    "2": 1261,
+    "3": 918,
+    "1": 256,
+    "4": 156,
+    "5": 7
+   }
+  },
+  {
+   "zona": "NORTE",
+   "categoria": "Casas",
+   "anuncios": 1954,
+   "tipos": {
+    "Padrão": 1716,
+    "Casa de condomínio": 229,
+    "Casa de vila": 9
+   },
+   "quartos": {
+    "3": 969,
+    "2": 485,
+    "4": 309,
+    "5": 132,
+    "1": 59
+   }
+  },
+  {
+   "zona": "OESTE",
+   "categoria": "Apartamentos",
+   "anuncios": 3457,
+   "tipos": {
+    "Padrão": 3251,
+    "Cobertura": 156,
+    "Loft": 44,
+    "Duplex ou triplex": 3,
+    "Kitnet": 3
+   },
+   "quartos": {
+    "3": 1592,
+    "2": 1003,
+    "4": 565,
+    "1": 278,
+    "5": 19
+   }
+  },
+  {
+   "zona": "OESTE",
+   "categoria": "Casas",
+   "anuncios": 616,
+   "tipos": {
+    "Padrão": 565,
+    "Casa de condomínio": 44,
+    "Casa de vila": 7
+   },
+   "quartos": {
+    "3": 294,
+    "2": 161,
+    "4": 107,
+    "5": 46,
+    "1": 8
+   }
+  },
+  {
+   "zona": "SUL",
+   "categoria": "Apartamentos",
+   "anuncios": 2914,
+   "tipos": {
+    "Padrão": 2723,
+    "Cobertura": 98,
+    "Loft": 85,
+    "Kitnet": 8
+   },
+   "quartos": {
+    "3": 1204,
+    "2": 900,
+    "1": 470,
+    "4": 322,
+    "5": 15,
+    "0": 3
+   }
+  },
+  {
+   "zona": "SUL",
+   "categoria": "Casas",
+   "anuncios": 592,
+   "tipos": {
+    "Padrão": 501,
+    "Casa de condomínio": 74,
+    "Casa de vila": 17
+   },
+   "quartos": {
+    "3": 276,
+    "4": 139,
+    "2": 121,
+    "5": 48,
+    "1": 8
+   }
+  }
+ ],
+ "modelo": {
+  "cenarios": [
+   {
+    "cenario": "completo",
+    "erroMediano": 0.16304866748138164,
+    "mape": 0.22529694222502827,
+    "cobertura": 0.7999804859010635,
+    "meiaLargura": 0.35759320450428306
+   },
+   {
+    "cenario": "sem_bairro",
+    "erroMediano": 0.18886544919715778,
+    "mape": 0.26779939346561044,
+    "cobertura": 0.7999804859010635,
+    "meiaLargura": 0.4189955836380025
+   },
+   {
+    "cenario": "sem_localizacao",
+    "erroMediano": 0.20913327911692886,
+    "mape": 0.29217713064050377,
+    "cobertura": 0.7999804859010635,
+    "meiaLargura": 0.46915536158426957
+   }
+  ],
+  "importancias": [
+   {
+    "variavel": "areaM2",
+    "peso": 34.257
+   },
+   {
+    "variavel": "condominio",
+    "peso": 15.792
+   },
+   {
+    "variavel": "zona",
+    "peso": 11.745
+   },
+   {
+    "variavel": "bairro",
+    "peso": 9.326
+   },
+   {
+    "variavel": "vagasGaragem",
+    "peso": 7.767
+   },
+   {
+    "variavel": "banheiros",
+    "peso": 6.282
+   },
+   {
+    "variavel": "quartos",
+    "peso": 2.511
+   },
+   {
+    "variavel": "piscina",
+    "peso": 2.325
+   },
+   {
+    "variavel": "categoria",
+    "peso": 1.918
+   },
+   {
+    "variavel": "arCondicionado",
+    "peso": 1.505
+   },
+   {
+    "variavel": "tipo",
+    "peso": 1.122
+   },
+   {
+    "variavel": "churrasqueira",
+    "peso": 0.691
+   },
+   {
+    "variavel": "permitidoAnimais",
+    "peso": 0.677
+   },
+   {
+    "variavel": "elevador",
+    "peso": 0.645
+   },
+   {
+    "variavel": "academia",
+    "peso": 0.555
+   },
+   {
+    "variavel": "salaoFestas",
+    "peso": 0.517
+   },
+   {
+    "variavel": "varanda",
+    "peso": 0.506
+   },
+   {
+    "variavel": "areaServico",
+    "peso": 0.422
+   },
+   {
+    "variavel": "mobiliado",
+    "peso": 0.272
+   },
+   {
+    "variavel": "armariosCozinha",
+    "peso": 0.248
+   },
+   {
+    "variavel": "portaria",
+    "peso": 0.217
+   },
+   {
+    "variavel": "condominioFechado",
+    "peso": 0.178
+   },
+   {
+    "variavel": "quartoServico",
+    "peso": 0.146
+   },
+   {
+    "variavel": "seguranca24h",
+    "peso": 0.12
+   },
+   {
+    "variavel": "areaMurada",
+    "peso": 0.097
+   },
+   {
+    "variavel": "armariosQuarto",
+    "peso": 0.079
+   },
+   {
+    "variavel": "portaoEletronico",
+    "peso": 0.052
+   },
+   {
+    "variavel": "porteiro24h",
+    "peso": 0.027
+   }
+  ]
+ }
+}
